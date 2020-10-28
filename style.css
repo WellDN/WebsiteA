@@ -84,11 +84,29 @@ nav ul li a{
     bottom: 0;
     right: 160px;
 }
-.social-links {
-    transform: rotate(-90deg);
+.git {
+    
     position: absolute;
-    left: -80px;
+    left: 50px;
     bottom: 180px;
+    width: 80%;
+    height: 17%;
+}
+.ig {
+    position: absolute;
+    left: 49px;
+    bottom: 153px;
+    width: 80%;
+    height: 13%;
+}
+.tw {
+    position: absolute;
+    left: 49px;
+    bottom: 180px;
+    width: 80%;
+    height: 26%;
+    
+
 }
 .social-links a{
     text-decoration: none;
