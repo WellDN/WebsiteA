@@ -73,10 +73,12 @@ nav ul li a{
 .arrow-icons {
     margin-top: 40px;
     display: flex;
+    cursor: pointer;
 }
 .arrow-icons img {
     width: 40px;
     margin-right: 25px;
+    cursor: pointer;
 }
 .feature-img {
     height: 90%;
@@ -98,6 +100,7 @@ nav ul li a{
     bottom: 153px;
     width: 80%;
     height: 13%;
+    cursor: pointer;
 }
 .tw {
     position: absolute;
@@ -105,7 +108,7 @@ nav ul li a{
     bottom: 180px;
     width: 80%;
     height: 26%;
-    
+    cursor: pointer;
 
 }
 .social-links a{
