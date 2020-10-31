@@ -73,7 +73,6 @@ nav ul li a{
 .arrow-icons {
     margin-top: 40px;
     display: flex;
-    cursor: pointer;
 }
 .arrow-icons img {
     width: 40px;
@@ -86,35 +85,23 @@ nav ul li a{
     bottom: 0;
     right: 160px;
 }
-.git {
-    
-    position: absolute;
-    left: 50px;
-    bottom: 184px;
-    width: 80%;
-    height: 17%;
+.social-links {
+    width: 30px;
+    display: block;
+    margin: auto 0;
+    text-align: center;
+    top: padding;
+    margin-top: -20%;
+    margin-left: -1%;
 }
-.ig {
-    position: absolute;
-    left: 49px;
-    bottom: 153px;
-    width: 80%;
-    height: 13%;
+.social-links img {
+    height: 20px;
+    margin-bottom: 30px;
     cursor: pointer;
-}
-.tw {
-    position: absolute;
-    left: 49px;
-    bottom: 180px;
-    width: 80%;
-    height: 26%;
-    cursor: pointer;
-
 }
 .social-links a{
     text-decoration: none;
     color: #6a7199;
     padding-right: 20px;
     font-size: 14px;
-
 }
