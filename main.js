@@ -8,3 +8,5 @@ function processAjaxData(response, urlPath){
         document.title = e.state.pageTitle;
     }
 };
+
+
